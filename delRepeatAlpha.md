@@ -15,3 +15,5 @@ var DelRepeatAlpha = function(str){
     str = str.replace(/([a-z])\1*([a-z])\2*([a-z])\3*/g,"$1$2$3")
 }
 ```
+
+
